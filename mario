@@ -1,0 +1,825 @@
+<!doctype html>
+<html lang="ja" class="col2">
+<head>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18175519-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>	<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+	<title>無料マリオゲーム｜ ブラウザゲームのスーパーマリオ系 ｜ アクションゲームの庵</title>
+<style type="text/css">.color01{color: #002359;}.color02{color: #00664a;}.color03{color: #b3e4e6;}.color04{color: ;}.color05{color: #e8f7f7;}.color06{color: #d1eff0;}.color07{color: #557700;}q{background: #d1eff0;}table:not(.review-table) thead th{border-color: #00664a;background-color: #00664a;}a:hover,a:active,a:focus{color: #002359;}.keni-header_wrap{background-image: linear-gradient(-45deg,#fff 25%,#00664a 25%, #00664a 50%,#fff 50%, #fff 75%,#00664a 75%, #00664a);}.keni-header_cont .header-mail .btn_header{color: #002359;}.site-title > a span{color: #002359;}.keni-breadcrumb-list li a:hover,.keni-breadcrumb-list li a:active,.keni-breadcrumb-list li a:focus{color: #002359;}.keni-section h1:not(.title_no-style){background-image: linear-gradient(-45deg,#fff 25%,#00664a 25%, #00664a 50%,#fff 50%, #fff 75%,#00664a 75%, #00664a);}.archive_title{background-image: linear-gradient(-45deg,#fff 25%,#00664a 25%, #00664a 50%,#fff 50%, #fff 75%,#00664a 75%, #00664a);} h2:not(.title_no-style){background: #00664a;}.profile-box-title {background: #00664a;}.keni-related-title {background: #00664a;}.comments-area h2 {background: #00664a;}h3:not(.title_no-style){border-top-color: #00664a;border-bottom-color: #00664a;color: #002359;}h4:not(.title_no-style){border-bottom-color: #00664a;color: #002359;}h5:not(.title_no-style){color: #002359;}.keni-section h1 a:hover,.keni-section h1 a:active,.keni-section h1 a:focus,.keni-section h3 a:hover,.keni-section h3 a:active,.keni-section h3 a:focus,.keni-section h4 a:hover,.keni-section h4 a:active,.keni-section h4 a:focus,.keni-section h5 a:hover,.keni-section h5 a:active,.keni-section h5 a:focus,.keni-section h6 a:hover,.keni-section h6 a:active,.keni-section h6 a:focus{color: #002359;}.keni-section .sub-section_title {background: #557700;}.btn_style01{border-color: #002359;color: #002359;}.btn_style02{border-color: #002359;color: #002359;}.btn_style03{background: #00664a;}.entry-list .entry_title a:hover,.entry-list .entry_title a:active,.entry-list .entry_title a:focus{color: #002359;}.ently_read-more .btn{border-color: #002359;color: #002359;}.profile-box{background-color: #e8f7f7;}.advance-billing-box_next-title{color: #b3e4e6;}.step-chart li:nth-child(2){background-color: ;}.step-chart_style01 li:nth-child(2)::after,.step-chart_style02 li:nth-child(2)::after{border-top-color: ;}.step-chart li:nth-child(3){background-color: #b3e4e6;}.step-chart_style01 li:nth-child(3)::after,.step-chart_style02 li:nth-child(3)::after{border-top-color: #b3e4e6;}.step-chart li:nth-child(4){background-color: #00664a;}.step-chart_style01 li:nth-child(4)::after,.step-chart_style02 li:nth-child(4)::after{border-top-color: #00664a;}.toc-area_inner .toc-area_list > li::before{background: #00664a;}.toc_title{color: #002359;}.list_style02 li::before{background: #00664a;}.dl_style02 dt{background: #00664a;}.dl_style02 dd{background: ;}.accordion-list dt{background: #00664a;}.ranking-list .review_desc_title{color: #002359;}.review_desc{background-color: #e8f7f7;}.item-box .item-box_title{color: #002359;}.item-box02{background-image: linear-gradient(-45deg,#fff 25%,#00664a 25%, #00664a 50%,#fff 50%, #fff 75%,#00664a 75%, #00664a);}.item-box02 .item-box_inner{background-color: #e8f7f7;}.item-box02 .item-box_title{background-color: #00664a;}.item-box03 .item-box_title{background-color: #00664a;}.box_style01{background-image: linear-gradient(-45deg,#fff 25%,#00664a 25%, #00664a 50%,#fff 50%, #fff 75%,#00664a 75%, #00664a);}.box_style01 .box_inner{background-color: #e8f7f7;}.box_style03{background: #e8f7f7;}.box_style06{background-color: #e8f7f7;}.cast-box{background-image: linear-gradient(-45deg,#fff 25%,#00664a 25%, #00664a 50%,#fff 50%, #fff 75%,#00664a 75%, #00664a);}.cast-box .cast_name,.cast-box_sub .cast_name{color: #002359;}.widget .cast-box_sub .cast-box_sub_title{background-image: linear-gradient(-45deg,#00664a 25%, #00664a 50%,#fff 50%, #fff 75%,#00664a 75%, #00664a);}.voice_styl02{background-color: #e8f7f7;}.voice_styl03{background-image: linear-gradient(-45deg,#fff 25%,#e8f7f7 25%, #e8f7f7 50%,#fff 50%, #fff 75%,#e8f7f7 75%, #e8f7f7);}.voice-box .voice_title{color: #002359;}.chat_style02 .bubble{background-color: #00664a;}.chat_style02 .bubble .bubble_in{border-color: #00664a;}.related-entry-list .related-entry_title a:hover,.related-entry-list .related-entry_title a:active,.related-entry-list .related-entry_title a:focus{color: #002359;}.interval01 span{background-color: #00664a;}.interval02 span{background-color: #00664a;}.page-nav .current,.page-nav li a:hover,.page-nav li a:active,.page-nav li a:focus{background: #00664a;}.page-nav-bf .page-nav_next:hover,.page-nav-bf .page-nav_next:active,.page-nav-bf .page-nav_next:focus,.page-nav-bf .page-nav_prev:hover,.page-nav-bf .page-nav_prev:active,.page-nav-bf .page-nav_prev:focus{color: #002359;}.nav-links .nav-next a:hover, .nav-links .nav-next a:active, .nav-links .nav-next a:focus, .nav-links .nav-previous a:hover, .nav-links .nav-previous a:active, .nav-links .nav-previous a:focus {color: #002359; text-decoration: 'underline'; }.commentary-box .commentary-box_title{color: #00664a;}.calendar tfoot td a:hover,.calendar tfoot td a:active,.calendar tfoot td a:focus{color: #002359;}.form-mailmaga .form-mailmaga_title{color: #00664a;}.form-login .form-login_title{color: #00664a;}.form-login-item .form-login_title{color: #00664a;}.contact-box{background-image: linear-gradient(-45deg,#fff 25%, #00664a 25%, #00664a 50%,#fff 50%, #fff 75%,#00664a 75%, #00664a);}.contact-box_inner{background-color: #e8f7f7;}.contact-box .contact-box-title{background-color: #00664a;}.contact-box_tel{color: #002359;}.widget_recent_entries .keni-section ul li a:hover,.widget_recent_entries .keni-section ul li a:active,.widget_recent_entries .keni-section ul li a:focus,.widget_archive .keni-section > ul li a:hover,.widget_archive .keni-section > ul li a:active,.widget_archive .keni-section > ul li a:focus,.widget_categories .keni-section > ul li a:hover,.widget_categories .keni-section > ul li a:active,.widget_categories .keni-section > ul li a:focus{color: #002359;}.tagcloud a::before{color: #002359;}.widget_recent_entries_img .list_widget_recent_entries_img .widget_recent_entries_img_entry_title a:hover,.widget_recent_entries_img .list_widget_recent_entries_img .widget_recent_entries_img_entry_title a:active,.widget_recent_entries_img .list_widget_recent_entries_img .widget_recent_entries_img_entry_title a:focus{color: #002359;}.keni-link-card_title a:hover,.keni-link-card_title a:active,.keni-link-card_title a:focus{color: #002359;}@media (min-width : 768px){.keni-gnav_inner li a:hover,.keni-gnav_inner li a:active,.keni-gnav_inner li a:focus{border-bottom-color: #00664a;}.step-chart_style02 li:nth-child(2)::after{border-left-color: ;}.step-chart_style02 li:nth-child(3)::after{border-left-color: #b3e4e6;}.step-chart_style02 li:nth-child(4)::after{border-left-color: #00664a;}.col1 .contact-box_tel{color: #002359;}.step-chart_style02 li:nth-child(1)::after,.step-chart_style02 li:nth-child(2)::after,.step-chart_style02 li:nth-child(3)::after,.step-chart_style02 li:nth-child(4)::after{border-top-color: transparent;}}@media (min-width : 920px){.contact-box_tel{color: #002359;}}</style>    <script>
+        var ajaxurl = 'https://game-ac.com/wp-admin/admin-ajax.php';
+        var sns_cnt = false;
+            </script>
+	<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="アクションゲームの庵 &raquo; フィード" href="https://game-ac.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="アクションゲームの庵 &raquo; コメントフィード" href="https://game-ac.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="アクションゲームの庵 &raquo; マリオゲーム カテゴリーのフィード" href="https://game-ac.com/free/mario/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/game-ac.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://game-ac.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://game-ac.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-components-css'  href='https://game-ac.com/wp-includes/css/dist/components/style.min.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-font-css'  href='https://fonts.googleapis.com/css?family=Noto+Serif+JP%3A400%2C700&#038;ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css'  href='https://game-ac.com/wp-includes/css/dist/block-editor/style.min.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-nux-css'  href='https://game-ac.com/wp-includes/css/dist/nux/style.min.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-css'  href='https://game-ac.com/wp-includes/css/dist/editor/style.min.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='keni_block-cgb-style-css-css'  href='https://game-ac.com/wp-content/themes/oya/keni/module/keni-block-editor/dist/blocks.style.build.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://game-ac.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-postratings-css'  href='https://game-ac.com/wp-content/plugins/wp-postratings/css/postratings-css.css?ver=1.89' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css-css'  href='https://game-ac.com/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='keni-style-css'  href='https://game-ac.com/wp-content/themes/aciori/style.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='keni_base-css'  href='https://game-ac.com/wp-content/themes/oya/base.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='keni-advanced-css'  href='https://game-ac.com/wp-content/themes/oya/advanced.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='my-keni_base-css'  href='https://game-ac.com/wp-content/themes/aciori/base.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='my-keni-advanced-css'  href='https://game-ac.com/wp-content/themes/aciori/advanced.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='decent-comments-widget-css'  href='https://game-ac.com/wp-content/plugins/decent-comments/css/decent-comments-widget.css' type='text/css' media='all' />
+<link rel="canonical" href="https://game-ac.com/free/mario/" />
+<link rel='https://api.w.org/' href='https://game-ac.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://game-ac.com/xmlrpc.php?rsd" />
+<meta name="description" content="マリオやクッパなどスーパーマリオブラザーズのキャラが登場したりゲーム性が似ている無料のマリオゲーム系を公開中。マリオカート風の無料ゲームや初代スーパーマリオブラザーズをアレンジした二次創作のPCブラウザゲームをまとめています。">
+        <!--OGP-->
+		<meta property="og:type" content="article" />
+<meta property="og:url" content="https://game-ac.com/free/mario/" />
+        <meta property="og:title" content="無料マリオゲーム｜ ブラウザゲームのスーパーマリオ系"/>
+        <meta property="og:description" content="マリオやクッパなどスーパーマリオブラザーズのキャラが登場したりゲーム性が似ている無料のマリオゲーム系を公開中。マリオカート風の無料ゲームや初代スーパーマリオブラザーズをアレンジした二次創作のPCブラウザゲームをまとめています。">
+        <meta property="og:site_name" content="アクションゲームの庵">
+        <meta property="og:image" content="">
+		        <meta property="og:locale" content="ja_JP">
+		        <!--OGP-->
+		<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><link rel="next" href="https://game-ac.com/free/mario/page/2/" />
+<link rel="icon" href="https://game-ac.com/wp-content/uploads/6f4766e7cb163e4e9262c79250fa111c_400x400-300x300.jpeg" sizes="32x32" />
+<link rel="icon" href="https://game-ac.com/wp-content/uploads/6f4766e7cb163e4e9262c79250fa111c_400x400-300x300.jpeg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://game-ac.com/wp-content/uploads/6f4766e7cb163e4e9262c79250fa111c_400x400-300x300.jpeg" />
+<meta name="msapplication-TileImage" content="https://game-ac.com/wp-content/uploads/6f4766e7cb163e4e9262c79250fa111c_400x400-300x300.jpeg" />
+<meta name="google-site-verification" content="Igs9qxXErERAl1VDUry6bAUQbYS5ipmc9-7xY360IdE" />
+<link rel="shortcut icon"  type="image/x-icon" href="<?php bloginfo('template_url'); ?>/favicon.ico" /><!-- ## NXS/OG ## --><!-- ## NXSOGTAGS ## --><!-- ## NXS/OG ## -->
+
+</head>
+
+<body class="archive category category-mario category-5"><!--ページの属性-->
+<div id="top" class="keni-container">
+
+
+<!--▼▼ ヘッダー ▼▼-->
+<div class="keni-header_wrap">
+	<div class="keni-header_outer">
+
+	</div><!--keni-header_outer-->
+</div><!--keni-header_wrap-->
+<!--▲▲ ヘッダー ▲▲-->
+
+<div id="click-space"></div>
+				<header class="keni-header keni-header_col1">
+			<div class="keni-header_inner">
+
+							<p class="site-title"><a href="https://game-ac.com/" rel="home">アクションゲームの庵</a></p>
+			
+			<div class="keni-header_cont">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- アクションゲームの庵ヘッダー -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4684554833388825"
+     data-ad-slot="3411277690"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+			</div>
+
+			</div><!--keni-header_inner-->
+		</header><!--keni-header--><!--▼▼ グローバルナビ ▼▼-->
+<div class="keni-gnav_wrap">
+	<div class="keni-gnav_outer">
+		<nav class="keni-gnav">
+			<div class="keni-gnav_inner">
+
+				<ul id="menu" class="keni-gnav_cont">
+				<li id="menu-item-13697" class="menu-item menu-item-type-taxonomy menu-item-object-category current-category-ancestor current-category-parent menu-item-13697"><a href="https://game-ac.com/free/">無料ゲームの一覧</a></li>
+<li id="menu-item-13699" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13699"><a href="https://game-ac.com/tag/omoshiroi/">面白いゲーム</a></li>
+<li id="menu-item-13701" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13701"><a href="https://game-ac.com/free/fps/">FPS</a></li>
+<li id="menu-item-13700" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13700"><a href="https://game-ac.com/free/gunshooting/">ガンシューティング</a></li>
+<li id="menu-item-13702" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13702"><a href="https://game-ac.com/free/shooting/">シューティング</a></li>
+<li id="menu-item-13703" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-13703"><a href="https://game-ac.com/free/mario/" aria-current="page">マリオゲーム</a></li>
+<li id="menu-item-13704" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13704"><a href="https://game-ac.com/free/sports/">スポーツゲーム</a></li>
+<li id="menu-item-13705" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13705"><a href="https://game-ac.com/free/kakutou/">格闘ゲーム</a></li>
+<li id="menu-item-13706" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13706"><a href="https://game-ac.com/free/racing/">レースゲーム</a></li>
+<li id="menu-item-13707" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13707"><a href="https://game-ac.com/free/major/">アドベンチャー</a></li>
+<li id="menu-item-13709" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13709"><a href="https://game-ac.com/free/bouei/">防衛ゲーム</a></li>
+<li id="menu-item-13710" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13710"><a href="https://game-ac.com/free/flash/">反射神経ゲーム</a></li>
+<li id="menu-item-13711" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13711"><a href="https://game-ac.com/free/hakai/">ストレス発散・破壊</a></li>
+<li id="menu-item-13712" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13712"><a href="https://game-ac.com/free/other/">育成ゲーム</a></li>
+<li id="menu-item-13714" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13714"><a href="https://game-ac.com/free/puzzle/">パズルゲーム</a></li>
+<li id="menu-item-13715" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13715"><a href="https://game-ac.com/pvp/">マルチプレイ</a></li>
+<li id="menu-item-13717" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13717"><a href="https://game-ac.com/tag/guro/">グロ系 残酷ゲーム</a></li>
+<li id="menu-item-15216" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15216"><a href="https://game-ac.com/tag/mouse/">マウス操作</a></li>
+<li id="menu-item-16015" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16015"><a href="https://game-ac.com/tag/html5/">HTML5</a></li>
+<li id="menu-item-16017" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16017"><a href="https://game-ac.com/tag/webgl/">WebGL</a></li>
+<li id="menu-item-16016" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16016"><a href="https://game-ac.com/tag/pc-flash/">Flash</a></li>
+				<li class="menu-search"><div class="search-box">
+	<form role="search" method="get" id="keni_search" class="searchform" action="https://game-ac.com/">
+		<input type="text" value="" name="s"><button class="btn-search"><img src="https://game-ac.com/wp-content/themes/oya/images/icon/search_black.svg" width="18" height="18"></button>
+	</form>
+</div></li>
+				</ul>
+			</div>
+			<div class="keni-gnav_btn_wrap">
+				<div class="keni-gnav_btn"><span class="keni-gnav_btn_icon-open"></span></div>
+			</div>
+		</nav>
+	</div>
+</div>
+
+
+
+<div class="keni-main_wrap">
+	<div class="keni-main_outer">
+		<!--▼▼ メインコンテンツ ▼▼-->
+
+
+
+
+		<main id="main" class="keni-main">		
+			<div class="keni-main_inner">
+				<div class="archive_title_wrap">
+					<h1 class="archive_title">無料マリオゲーム｜ ブラウザゲームのスーパーマリオ系</h1>				</div>
+
+				<aside class="free-area free-area_before-title">
+									</aside><!-- #secondary -->
+
+																<aside class="sns-btn_wrap sns-btn_wrap_s">
+                            <div class="sns-btn_tw" data-url="https://game-ac.com/free/mario/" data-title="%E7%84%A1%E6%96%99%E3%83%9E%E3%83%AA%E3%82%AA%E3%82%B2%E3%83%BC%E3%83%A0%EF%BD%9C+%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E7%B3%BB"></div>
+        <div class="sns-btn_fb" data-url="https://game-ac.com/free/mario/" data-title="%E7%84%A1%E6%96%99%E3%83%9E%E3%83%AA%E3%82%AA%E3%82%B2%E3%83%BC%E3%83%A0%EF%BD%9C+%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E7%B3%BB"></div>
+        <div class="sns-btn_hatena" data-url="https://game-ac.com/free/mario/" data-title="%E7%84%A1%E6%96%99%E3%83%9E%E3%83%AA%E3%82%AA%E3%82%B2%E3%83%BC%E3%83%A0%EF%BD%9C+%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E7%B3%BB"></div>
+						</aside>
+				
+				<div class="keni-section_wrap"><div class="keni-section entry"><div class="article-body"><div class="keni-page-contents">
+<p>マリオやクッパ、キノピオ、ピーチ姫などスーパーマリオブラザーズのキャラクターが登場したりスーパーマリオとゲーム性が似ている無料のマリオゲーム系を公開中。マリオカート風の無料ゲームや初代スーパーマリオブラザーズをアレンジした二次創作のPCブラウザゲームをジャンル不問でまとめています。</p>
+</div>
+</div></div></div>								
+	
+	
+				
+					
+				
+		<h2>マリオゲーム</h2>
+						
+					<ul class="waku01">		
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/major/bonkers/" title="Bonkers"><img width="507" height="337" src="https://game-ac.com/wp-content/uploads/Bonkers.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/Bonkers.jpeg 507w, https://game-ac.com/wp-content/uploads/Bonkers-300x200.jpeg 300w" sizes="(max-width: 507px) 100vw, 507px" /><br clear="all">
+Bonkers</a>		<br clear="all">
+ボクサー少女が冒険するアクションアドベンチャー。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/super-oscar/" title="Super Oscar"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/super-oscar.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/super-oscar.jpeg 506w, https://game-ac.com/wp-content/uploads/super-oscar-300x200.jpeg 300w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Super Oscar</a>		<br clear="all">
+スーパーマリオ風のアクションアドベンチャー。
+</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/hyperion/" title="HYPERION"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/hyperion.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/hyperion.jpeg 506w, https://game-ac.com/wp-content/uploads/hyperion-300x200.jpeg 300w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+HYPERION</a>		<br clear="all">
+純粋に難しすぎる上級者向けのスーパーマリオ。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/super-mario-kart/" title="Super Mario Kart"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/super-mario-kart-usa.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/super-mario-kart-usa.jpeg 506w, https://game-ac.com/wp-content/uploads/super-mario-kart-usa-300x200.jpeg 300w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Super Mario Kart</a>		<br clear="all">
+PCで遊べるマリオカートの無料ゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/mario-is-missing-done-right/" title="Mario is Missing! Done Right"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/Mario-is-Missing-Done-Right.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/Mario-is-Missing-Done-Right.jpeg 506w, https://game-ac.com/wp-content/uploads/Mario-is-Missing-Done-Right-300x200.jpeg 300w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Mario is Missing! Done Right</a>		<br clear="all">
+マリオに変わってルイージが主人公のマリオワールド。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/jump/super-mario-riders/" title="Super Mario Riders"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/super-mario-riders.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/super-mario-riders.jpeg 506w, https://game-ac.com/wp-content/uploads/super-mario-riders-300x200.jpeg 300w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Super Mario Riders</a>		<br clear="all">
+スーパーマリオランをブラウザで再現した無料ゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/super-mario-world-luigi-is-villain/" title="Super Mario World Luigi is Villain"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/luigi-is-villain.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/luigi-is-villain.jpeg 506w, https://game-ac.com/wp-content/uploads/luigi-is-villain-300x200.jpeg 300w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Super Mario World Luigi is Villain</a>		<br clear="all">
+ルイージが悪者になったスーパーマリオ。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/super-mario-bros-3-usa/" title="Super Mario Bros. 3 (USA)"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/super-mario-bros-3-usa.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/super-mario-bros-3-usa.jpeg 506w, https://game-ac.com/wp-content/uploads/super-mario-bros-3-usa-300x200.jpeg 300w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Super Mario Bros. 3 (USA)</a>		<br clear="all">
+海外のスーパーマリオ3をブラウザゲームで再現。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/cat-mario/" title="キャットマリオ"><img width="506" height="377" src="https://game-ac.com/wp-content/uploads/cat-mario.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/cat-mario.jpeg 506w, https://game-ac.com/wp-content/uploads/cat-mario-452x337.jpeg 452w, https://game-ac.com/wp-content/uploads/cat-mario-268x200.jpeg 268w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+キャットマリオ</a>		<br clear="all">
+しょぼんのアクションを模倣した海外版html5ゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/super-mario-world-usa/" title="Super Mario (USA)"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/super-mario-world-usa.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/super-mario-world-usa.jpeg 506w, https://game-ac.com/wp-content/uploads/super-mario-world-usa-300x200.jpeg 300w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Super Mario (USA)</a>		<br clear="all">
+スーパーマリオワールドのブラウザゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/super-mario-demo/" title="Super Mario Demo"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/super-mario-demo.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/super-mario-demo.jpeg 506w, https://game-ac.com/wp-content/uploads/super-mario-demo-300x200.jpeg 300w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Super Mario Demo</a>		<br clear="all">
+そこはかとなくイジワルな感じがするスーパーマリオ。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/mario-world1/" title="Super Mario Bros World 1"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/mario-world1.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/mario-world1.jpeg 506w, https://game-ac.com/wp-content/uploads/mario-world1-300x200.jpeg 300w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Super Mario Bros World 1</a>		<br clear="all">
+初代スーパーマリオのワールド1のみ遊べるブラウザゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/blue-mario-bros-3/" title="Blue Mario Bros. 3"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/blue-mario-bros-3.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/blue-mario-bros-3.jpeg 506w, https://game-ac.com/wp-content/uploads/blue-mario-bros-3-300x200.jpeg 300w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Blue Mario Bros. 3</a>		<br clear="all">
+画面が青いスーパーマリオゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/kakutou/smash-karts/" title="Smash Karts"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/smash-karts.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/smash-karts.jpeg 506w, https://game-ac.com/wp-content/uploads/smash-karts-300x200.jpeg 300w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Smash Karts</a>		<br clear="all">
+マリオカートのバトルで対戦するオンラインゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/html5mario/" title="HTML5のスーパーマリオゲーム"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/html5mario.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/html5mario.jpeg 506w, https://game-ac.com/wp-content/uploads/html5mario-300x200.jpeg 300w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+HTML5のスーパーマリオゲーム</a>		<br clear="all">
+ファミコンの名作スーパーマリオブラザーズのHTML5版。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/super-steve-world/" title="Super Steve World"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/super-steve-world.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/super-steve-world.jpeg 506w, https://game-ac.com/wp-content/uploads/super-steve-world-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/super-steve-world-150x100.jpeg 150w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Super Steve World</a>		<br clear="all">
+スーパーマリオっぽい何かなアクションアドベンチャー。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/weird-bunny-banana/" title="Weird Bunny Banana"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/weird-bunny-banana-1.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/weird-bunny-banana-1.jpeg 506w, https://game-ac.com/wp-content/uploads/weird-bunny-banana-1-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/weird-bunny-banana-1-150x100.jpeg 150w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Weird Bunny Banana</a>		<br clear="all">
+スーパーマリオをオマージュしたウサギのアクションゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/plumbers-creed/" title="PLUMBER&#8217;S CREED"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/plumbers-creed.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/plumbers-creed.jpeg 506w, https://game-ac.com/wp-content/uploads/plumbers-creed-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/plumbers-creed-150x100.jpeg 150w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+PLUMBER'S CREED</a>		<br clear="all">
+配管工のおっさんが戦うハイスピードアクション。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/super-onion-boy/" title="Super Onion Boy"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/super-onion-boy.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/super-onion-boy.jpeg 506w, https://game-ac.com/wp-content/uploads/super-onion-boy-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/super-onion-boy-150x100.jpeg 150w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Super Onion Boy</a>		<br clear="all">
+玉ねぎ少年のスーパーマリオ風アクションゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/sonic-dash/" title="Sonic Dash"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/sonic-dash.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/sonic-dash.jpeg 506w, https://game-ac.com/wp-content/uploads/sonic-dash-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/sonic-dash-150x100.jpeg 150w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Sonic Dash</a>		<br clear="all">
+音速ハリネズミっぽいジャンプタイミングゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/super-ordinary-joe/" title="Super Ordinary Joe"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/super-ordinary-joe.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/super-ordinary-joe.jpeg 506w, https://game-ac.com/wp-content/uploads/super-ordinary-joe-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/super-ordinary-joe-150x100.jpeg 150w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Super Ordinary Joe</a>		<br clear="all">
+自堕落なジョーが健康体を目指す育成アクション。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/baby-dino-adventure/" title="Baby Dino Adventure"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/baby-dino-adventure.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/baby-dino-adventure.jpeg 506w, https://game-ac.com/wp-content/uploads/baby-dino-adventure-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/baby-dino-adventure-150x100.jpeg 150w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Baby Dino Adventure</a>		<br clear="all">
+赤ちゃん恐竜のアクションアドベンチャー。<br />【公開終了】
+</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/baldys-adventures/" title="Baldy’s adventures"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/baldys-adventures.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/baldys-adventures.jpeg 506w, https://game-ac.com/wp-content/uploads/baldys-adventures-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/baldys-adventures-150x100.jpeg 150w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Baldy’s adventures</a>		<br clear="all">
+ハゲが活躍するマリオ風のアクションアドベンチャー。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/throwback/" title="Throwback"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/throwback.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/throwback.jpeg 506w, https://game-ac.com/wp-content/uploads/throwback-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/throwback-150x100.jpeg 150w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Throwback</a>		<br clear="all">
+マリオっぽいアクションアドベンチャー。<br />【公開終了】
+</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/mario1985/" title="1985"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/1985.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/1985.jpeg 506w, https://game-ac.com/wp-content/uploads/1985-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/1985-150x100.jpeg 150w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+1985</a>		<br clear="all">
+スーパーマリオをオマージュしたアクションアドベンチャー。
+</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/mario-fps/" title="MARIO FPS"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/mario-fps.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/mario-fps.jpeg 506w, https://game-ac.com/wp-content/uploads/mario-fps-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/mario-fps-150x100.jpeg 150w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+MARIO FPS</a>		<br clear="all">
+スーパーマリオのキャラクターが登場するFPS。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/jelly-mario/" title="Jelly Mario"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/jelly-mario.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/jelly-mario.jpeg 506w, https://game-ac.com/wp-content/uploads/jelly-mario-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/jelly-mario-150x100.jpeg 150w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Jelly Mario</a>		<br clear="all">
+ゼリー状にグニョグニョしたスーパーマリオ。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/gunshooting/gunner-vario/" title="Gunner Vario"><img width="507" height="347" src="https://game-ac.com/wp-content/uploads/gunner-vario.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/gunner-vario.jpeg 507w, https://game-ac.com/wp-content/uploads/gunner-vario-492x337.jpeg 492w, https://game-ac.com/wp-content/uploads/gunner-vario-292x200.jpeg 292w" sizes="(max-width: 507px) 100vw, 507px" /><br clear="all">
+Gunner Vario</a><img class="flash" src="https://game-ac.com/images/flash.jpeg" border="0" alt="" width="18" height="18" />
+		<br clear="all">
+マリオ風のオヤジの防衛シューティング。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/super-alfonso/" title="Super Alfonso"><img width="507" height="337" src="https://game-ac.com/wp-content/uploads/super-alfonso.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/super-alfonso.jpeg 507w, https://game-ac.com/wp-content/uploads/super-alfonso-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/super-alfonso-150x100.jpeg 150w" sizes="(max-width: 507px) 100vw, 507px" /><br clear="all">
+Super Alfonso</a><img class="flash" src="https://game-ac.com/images/flash.jpeg" border="0" alt="" width="18" height="18" />
+		<br clear="all">
+スーパーマリオに似た試作品アドベンチャーゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/yuudou/super-plumber-run/" title="SUPER PLUMBER RUN"><img width="507" height="337" src="https://game-ac.com/wp-content/uploads/super-plumber-run.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/super-plumber-run.jpeg 507w, https://game-ac.com/wp-content/uploads/super-plumber-run-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/super-plumber-run-150x100.jpeg 150w" sizes="(max-width: 507px) 100vw, 507px" /><br clear="all">
+SUPER PLUMBER RUN</a>		<br clear="all">
+スーパーマリオラン風のランニングアクションゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/eggys-big-adventure/" title="Eggys Big Adventure"><img width="507" height="347" src="https://game-ac.com/wp-content/uploads/eggys-big-adventure.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/eggys-big-adventure.jpeg 507w, https://game-ac.com/wp-content/uploads/eggys-big-adventure-492x337.jpeg 492w, https://game-ac.com/wp-content/uploads/eggys-big-adventure-292x200.jpeg 292w" sizes="(max-width: 507px) 100vw, 507px" /><br clear="all">
+Eggys Big Adventure</a>		<br clear="all">
+タマゴがマリオする感じの2Dジャンプアクション。(Unity)</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/super-mario-run-2/" title="Super Mario Run 2"><img width="518" height="337" src="https://game-ac.com/wp-content/uploads/super-mario-run-2.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/super-mario-run-2.jpeg 518w, https://game-ac.com/wp-content/uploads/super-mario-run-2-506x329.jpeg 506w, https://game-ac.com/wp-content/uploads/super-mario-run-2-300x195.jpeg 300w" sizes="(max-width: 518px) 100vw, 518px" /><br clear="all">
+Super Mario Run 2</a>		<br clear="all">
+スーパーマリオランのPCブラウザ版。（パート2）</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/gunshooting/gangster-bros/" title="Gangster Bros"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/gangster-bros.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/gangster-bros.jpeg 506w, https://game-ac.com/wp-content/uploads/gangster-bros-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/gangster-bros-150x100.jpeg 150w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Gangster Bros</a><img class="flash" src="https://game-ac.com/images/flash.jpeg" border="0" alt="" width="18" height="18" />
+		<br clear="all">
+マリオが銃で戦うガンアクションゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/super-mario-run/" title="Super Mario Rush"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/super-mario-run.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/super-mario-run.jpeg 506w, https://game-ac.com/wp-content/uploads/super-mario-run-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/super-mario-run-150x100.jpeg 150w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Super Mario Rush</a>		<br clear="all">
+スーパーマリオランのブラウザ無料ゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/super-mario-twins/" title="Super Mario Twins"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/super-mario-twins.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/super-mario-twins.jpeg 506w, https://game-ac.com/wp-content/uploads/super-mario-twins-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/super-mario-twins-150x100.jpeg 150w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Super Mario Twins</a><img class="flash" src="https://game-ac.com/images/flash.jpeg" border="0" alt="" width="18" height="18" />
+		<br clear="all">
+オフラインで協力プレイできるスーパーマリオ。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/mario-ds/" title="Mario DS"><img width="506" height="377" src="https://game-ac.com/wp-content/uploads/mario-ds.jpeg" class="attachment-full size-full wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/mario-ds.jpeg 506w, https://game-ac.com/wp-content/uploads/mario-ds-452x337.jpeg 452w, https://game-ac.com/wp-content/uploads/mario-ds-268x200.jpeg 268w" sizes="(max-width: 506px) 100vw, 506px" /><br clear="all">
+Mario DS</a><img class="flash" src="https://game-ac.com/images/flash.jpeg" border="0" alt="" width="18" height="18" />
+		<br clear="all">
+キノコが見当たらない激ムズなスーパーマリオ。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/donkey-kong/" title="ドンキーコング"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/donkey-kong.jpeg" class="attachment-full size-full wp-post-image" alt="" /><br clear="all">
+ドンキーコング</a><img class="flash" src="https://game-ac.com/images/flash.jpeg" border="0" alt="" width="18" height="18" />
+		<br clear="all">
+初代ドンキーコングの無料ゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/sumahura/" title="スマフラ2"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/sumahura.jpeg" class="attachment-full size-full wp-post-image" alt="" /><br clear="all">
+スマフラ2</a><img class="flash" src="https://game-ac.com/images/flash.jpeg" border="0" alt="" width="18" height="18" />
+		<br clear="all">
+大乱闘スマッシュブラザーズ風の無料ゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/tobys-adventures-beach/" title="Toby&#8217;s Adventures: Beach"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/tobys-adventures-beach.jpeg" class="attachment-full size-full wp-post-image" alt="" /><br clear="all">
+Toby's Adventures: Beach</a><img class="flash" src="https://game-ac.com/images/flash.jpeg" border="0" alt="" width="18" height="18" />
+		<br clear="all">
+マリオみたいなキツネのアクションゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/super-mario-special-edition/" title="Super Mario Special Edition"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/super-mario-special-edition.jpeg" class="attachment-full size-full wp-post-image" alt="" /><br clear="all">
+Super Mario Special Edition</a><img class="flash" src="https://game-ac.com/images/flash.jpeg" border="0" alt="" width="18" height="18" />
+		<br clear="all">
+ステージ攻略型のコミカルなマリオゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/sonic-the-hedgehog/" title="Sonic the Hedgehog"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/sonic-the-hedgehog.jpeg" class="attachment-full size-full wp-post-image" alt="" /><br clear="all">
+Sonic the Hedgehog</a>		<br clear="all">
+ソニック・ザ・ヘッジホッグのPCフラッシュゲーム。<br />【公開終了】
+</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/infinite-mario-bros/" title="Infinite Mario Bros"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/infinite-mario-bros.jpeg" class="attachment-full size-full wp-post-image" alt="" /><br clear="all">
+Infinite Mario Bros</a><img class="flash" src="https://game-ac.com/images/flash.jpeg" border="0" alt="" width="18" height="18" />
+		<br clear="all">
+毎回ステージが変化するスーパーマリオ。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/mario-star/" title="MARIO STAR"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/mario-star.jpeg" class="attachment-full size-full wp-post-image" alt="" /><br clear="all">
+MARIO STAR</a><img class="flash" src="https://game-ac.com/images/flash.jpeg" border="0" alt="" width="18" height="18" />
+		<br clear="all">
+マリオが主人公の単画面アクションゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/mario-never-stop/" title="Mario Never Stop"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/mario-never-stop.jpeg" class="attachment-full size-full wp-post-image" alt="" /><br clear="all">
+Mario Never Stop</a><img class="flash" src="https://game-ac.com/images/flash.jpeg" border="0" alt="" width="18" height="18" />
+		<br clear="all">
+引っ掛けトラップ満載のネタ系マリオゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/kill-the-plumber-2/" title="Kill the Plumber 2"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/kill-the-plumber-2.jpeg" class="attachment-full size-full wp-post-image" alt="" /><br clear="all">
+Kill the Plumber 2</a><img class="flash" src="https://game-ac.com/images/flash.jpeg" border="0" alt="" width="18" height="18" />
+		<br clear="all">
+スーパーマリオの似非キャラが配管工を倒す誘導ゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/unfair-mario/" title="Unfair Mario"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/unfair-mario.jpeg" class="attachment-full size-full wp-post-image" alt="" /><br clear="all">
+Unfair Mario</a><img class="flash" src="https://game-ac.com/images/flash.jpeg" border="0" alt="" width="18" height="18" />
+		<br clear="all">
+理不尽なトラップで殺しにくるスーパーマリオ。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/kill-the-plumber/" title="Kill The Plumber"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/kill-the-plumber.jpeg" class="attachment-full size-full wp-post-image" alt="" /><br clear="all">
+Kill The Plumber</a><img class="flash" src="https://game-ac.com/images/flash.jpeg" border="0" alt="" width="18" height="18" />
+		<br clear="all">
+マリオっぽい配管工を倒すアクションゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/super-mario-flash3/" title="Super Mario Flash ver3"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/super-mario-flash3.jpeg" class="attachment-full size-full wp-post-image" alt="" /><br clear="all">
+Super Mario Flash ver3</a><img class="flash" src="https://game-ac.com/images/flash.jpeg" border="0" alt="" width="18" height="18" />
+		<br clear="all">
+スーパーマリオをオマージュしたフラッシュゲームのver3。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/close-over/" title="スーパーマリオクロスオーバー3"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/close-over.jpeg" class="attachment-full size-full wp-post-image" alt="" /><br clear="all">
+スーパーマリオクロスオーバー3</a><img class="flash" src="https://game-ac.com/images/flash.jpeg" border="0" alt="" width="18" height="18" />
+		<br clear="all">
+初代スーパーマリオブラザーズにロックマン達が挑戦。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/peach-go-adventure/" title="PEACH GO ADVENTURE"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/peach-go-adventure.jpeg" class="attachment-full size-full wp-post-image" alt="" /><br clear="all">
+PEACH GO ADVENTURE</a><img class="flash" src="https://game-ac.com/images/flash.jpeg" border="0" alt="" width="18" height="18" />
+		<br clear="all">
+ピーチ姫をハンマーでポコポコ殴ってゴールに誘導。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/supermario63/" title="スーパーマリオ63"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/supermario1.jpeg" class="attachment-full size-full wp-post-image" alt="" /><br clear="all">
+スーパーマリオ63</a><img class="flash" src="https://game-ac.com/images/flash.jpeg" border="0" alt="" width="18" height="18" />
+		<br clear="all">
+スーパーマリオ64を2Dにしたようなマリオゲーム。</li>	
+
+	<li class="waku02">
+<a href="https://game-ac.com/free/mario/mario-crossover/" title="スーパーマリオ クロスオーバー"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/mario-crossover.jpeg" class="attachment-full size-full wp-post-image" alt="" /><br clear="all">
+スーパーマリオ クロスオーバー</a><img class="flash" src="https://game-ac.com/images/flash.jpeg" border="0" alt="" width="18" height="18" />
+		<br clear="all">
+マリオのステージを歴代の英雄たちがチャレンジ。</li>	
+	</ul><br clear="all">
+				
+				
+							
+
+		<nav class="page-nav"><ol><li class="current">1</li><li><a href="https://game-ac.com/free/mario/page/2/">2</a></li><li class="page-nav_next"><a href="https://game-ac.com/free/mario/page/2/">次へ</a></li></ol></nav>
+			<aside class="free-area free-area_after-cont">
+				<div id="text-12" class="keni-section_wrap widget widget_text"><section class="keni-section">			<div class="textwidget"><!--Google-->
+<div class="add">
+<!--▽広告-->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 庵記事直下 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4684554833388825"
+     data-ad-slot="1714407662"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!--△広告--></div></div>
+		</section></div>			</aside><!-- #secondary -->
+		</div><!--keni-main_inner-->
+	</main><!--keni-main-->
+
+
+<aside id="secondary" class="keni-sub">
+	<div id="search-2" class="keni-section_wrap widget widget_search"><section class="keni-section"><h3 class="sub-section_title">検索</h3><div class="search-box">
+	<form role="search" method="get" id="keni_search" class="searchform" action="https://game-ac.com/">
+		<input type="text" value="" name="s"><button class="btn-search"><img src="https://game-ac.com/wp-content/themes/oya/images/icon/search_black.svg" width="18" height="18"></button>
+	</form>
+</div></section></div><div id="custom_html-4" class="widget_text keni-section_wrap widget widget_custom_html"><section class="widget_text keni-section"><h3 class="sub-section_title">PR</h3><div class="textwidget custom-html-widget"><div align="center"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- アクションゲームの庵 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-4684554833388825"
+     data-ad-slot="8247803895"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+</div></section></div><div id="text-14" class="keni-section_wrap widget widget_text"><section class="keni-section"><h3 class="sub-section_title">ピックアップ！</h3>			<div class="textwidget"><div class="waku-main">
+	  <div class="waku-side2">
+<a href="https://game-ac.com/free/flash/hit-ball/" title="Hit Ball"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/hit-ball-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/hit-ball-150x100.jpeg 150w, https://game-ac.com/wp-content/uploads/hit-ball-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/hit-ball.jpeg 506w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/yuudou/spider-man-mysterio-rush/" title="Spider-Man Mysterio Rush"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/spider-man-mysterio-rush-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/spider-man-mysterio-rush-150x100.jpeg 150w, https://game-ac.com/wp-content/uploads/spider-man-mysterio-rush-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/spider-man-mysterio-rush.jpeg 506w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/major/vex-4/" title="Vex 4"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/vex-4-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/vex-4-150x100.jpeg 150w, https://game-ac.com/wp-content/uploads/vex-4-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/vex-4.jpeg 506w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/gunshooting/monstober-zap/" title="Monstober Zap"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/monstober-zap-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/monstober-zap-150x100.jpeg 150w, https://game-ac.com/wp-content/uploads/monstober-zap-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/monstober-zap.jpeg 506w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/yuudou/maze-monsters/" title="Maze Monsters"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/maze-monsters-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/maze-monsters-150x100.jpeg 150w, https://game-ac.com/wp-content/uploads/maze-monsters-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/maze-monsters.jpeg 506w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/gunshooting/snowar-io/" title="Snowar.io"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/snowar-io-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/snowar-io-150x100.jpeg 150w, https://game-ac.com/wp-content/uploads/snowar-io-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/snowar-io.jpeg 506w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+ </div>
+<br clear="all" />
+</div></div>
+		</section></div>
+<div id="wpp-2" class="keni-section_wrap widget popular-posts"><section class="keni-section">
+<h3 class="sub-section_title">週間ランキング</h3><!-- cached -->
+<!-- WordPress Popular Posts -->
+
+<ul class="wpp-list wpp-list-with-thumbnails">
+<li>
+<a href="https://game-ac.com/free/gunshooting/death-copter/" target="_self"><img src="https://game-ac.com/wp-content/uploads/wordpress-popular-posts/18544-featured-75x75.jpeg" width="75" height="75" alt="" class="wpp-thumbnail wpp_featured wpp_cached_thumb" loading="lazy" /></a>
+<a href="https://game-ac.com/free/gunshooting/death-copter/" class="wpp-post-title" target="_self">Death Copter</a>
+ <span class="wpp-excerpt">不自由なヘリコプターからライフル射撃するガンシューティング。...</span>
+</li>
+<li>
+<a href="https://game-ac.com/pvp/gulper-io/" target="_self"><img src="https://game-ac.com/wp-content/uploads/wordpress-popular-posts/18322-featured-75x75.jpeg" width="75" height="75" alt="" class="wpp-thumbnail wpp_featured wpp_cached_thumb" loading="lazy" /></a>
+<a href="https://game-ac.com/pvp/gulper-io/" class="wpp-post-title" target="_self">gulper.io</a>
+ <span class="wpp-excerpt">サクッと巨大化できるマルチプレイのスネークゲーム。</span>
+</li>
+<li>
+<a href="https://game-ac.com/free/kakutou/skyjunk/" target="_self"><img src="https://game-ac.com/wp-content/uploads/wordpress-popular-posts/18523-featured-75x75.jpeg" width="75" height="75" alt="" class="wpp-thumbnail wpp_featured wpp_cached_thumb" loading="lazy" /></a>
+<a href="https://game-ac.com/free/kakutou/skyjunk/" class="wpp-post-title" target="_self">SKYJUNK</a>
+ <span class="wpp-excerpt">ワイヤー爺さんが飛び回るアクションゲーム。</span>
+</li>
+<li>
+<a href="https://game-ac.com/free/kakutou/hungry-shark-arena/" target="_self"><img src="https://game-ac.com/wp-content/uploads/wordpress-popular-posts/18518-featured-75x75.jpeg" width="75" height="75" alt="" class="wpp-thumbnail wpp_featured wpp_cached_thumb" loading="lazy" /></a>
+<a href="https://game-ac.com/free/kakutou/hungry-shark-arena/" class="wpp-post-title" target="_self">Hungry Shark Arena</a>
+ <span class="wpp-excerpt">サメがPUBGするジョークみたいな対戦ゲーム。</span>
+</li>
+<li>
+<a href="https://game-ac.com/free/fps/aim-training/" target="_self"><img src="https://game-ac.com/wp-content/uploads/wordpress-popular-posts/17300-featured-75x75.jpeg" width="75" height="75" alt="" class="wpp-thumbnail wpp_featured wpp_cached_thumb" loading="lazy" /></a>
+<a href="https://game-ac.com/free/fps/aim-training/" class="wpp-post-title" target="_self">エイム測定</a>
+ <span class="wpp-excerpt">的を壊してFPSのエイムの練習ができるブラウザゲーム。</span>
+</li>
+<li>
+<a href="https://game-ac.com/free/jump/super-mario-riders/" target="_self"><img src="https://game-ac.com/wp-content/uploads/wordpress-popular-posts/18264-featured-75x75.jpeg" width="75" height="75" alt="" class="wpp-thumbnail wpp_featured wpp_cached_thumb" loading="lazy" /></a>
+<a href="https://game-ac.com/free/jump/super-mario-riders/" class="wpp-post-title" target="_self">Super Mario Riders</a>
+ <span class="wpp-excerpt">スーパーマリオランをブラウザで再現した無料ゲーム。</span>
+</li>
+<li>
+<a href="https://game-ac.com/free/sports/lolbeans/" target="_self"><img src="https://game-ac.com/wp-content/uploads/wordpress-popular-posts/18347-featured-75x75.jpeg" width="75" height="75" alt="" class="wpp-thumbnail wpp_featured wpp_cached_thumb" loading="lazy" /></a>
+<a href="https://game-ac.com/free/sports/lolbeans/" class="wpp-post-title" target="_self">LOLBeans</a>
+ <span class="wpp-excerpt">フォールガイズっぽいオンライン対戦レースゲーム。</span>
+</li>
+<li>
+<a href="https://game-ac.com/free/sports/tennis-masters/" target="_self"><img src="https://game-ac.com/wp-content/uploads/wordpress-popular-posts/18536-featured-75x75.jpeg" width="75" height="75" alt="" class="wpp-thumbnail wpp_featured wpp_cached_thumb" loading="lazy" /></a>
+<a href="https://game-ac.com/free/sports/tennis-masters/" class="wpp-post-title" target="_self">TENNIS MASTERS</a>
+ <span class="wpp-excerpt">ワールドテニスがテーマのソロや2人で試合するスポーツゲーム。...</span>
+</li>
+<li>
+<a href="https://game-ac.com/free/kakutou/street-fighter/" target="_self"><img src="https://game-ac.com/wp-content/uploads/wordpress-popular-posts/1451-featured-75x75.jpeg" width="75" height="75" alt="" class="wpp-thumbnail wpp_featured wpp_cached_thumb" loading="lazy" /></a>
+<a href="https://game-ac.com/free/kakutou/street-fighter/" class="wpp-post-title" target="_self">Street Fighter II Champion Edition</a>
+ <span class="wpp-excerpt">ストⅡをそのままブラウザゲームにした格闘ゲーム。</span>
+</li>
+<li>
+<a href="https://game-ac.com/free/mario/super-mario-kart/" target="_self"><img src="https://game-ac.com/wp-content/uploads/wordpress-popular-posts/18340-featured-75x75.jpeg" width="75" height="75" alt="" class="wpp-thumbnail wpp_featured wpp_cached_thumb" loading="lazy" /></a>
+<a href="https://game-ac.com/free/mario/super-mario-kart/" class="wpp-post-title" target="_self">Super Mario Kart</a>
+ <span class="wpp-excerpt">PCで遊べるマリオカートの無料ゲーム。</span>
+</li>
+</ul>
+
+</section></div>
+<div id="text-4" class="keni-section_wrap widget widget_text"><section class="keni-section">			<div class="textwidget"><p align="right"><a href="https://game-ac.com/rank/">続きを見る（100位まで）</a></p>
+</div>
+		</section></div><div id="text-18" class="keni-section_wrap widget widget_text"><section class="keni-section"><h3 class="sub-section_title">おすすめ</h3>			<div class="textwidget"><div class="waku-main">
+	  <div class="waku-side2">
+<a href="https://game-ac.com/free/puzzle/mixed-world/" title="MIXED WORLD"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/mixed-world-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/mixed-world-150x100.jpeg 150w, https://game-ac.com/wp-content/uploads/mixed-world-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/mixed-world.jpeg 506w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/flash/lets-worm/" title="LET&#8217;S WORM!"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/lets-worm-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/lets-worm-150x100.jpeg 150w, https://game-ac.com/wp-content/uploads/lets-worm-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/lets-worm.jpeg 507w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/hakai/short-ride/" title="Short Ride"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/short-ride-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/short-ride-150x100.jpeg 150w, https://game-ac.com/wp-content/uploads/short-ride-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/short-ride.jpeg 506w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/gunshooting/nightwalkers-io/" title="Nightwalkers.io"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/nightwalkers-io-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/shooting/go-space/" title="Go Space"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/go-space-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/go-space-150x100.jpeg 150w, https://game-ac.com/wp-content/uploads/go-space-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/go-space.jpeg 506w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/sports/dunkshot/" title="Dunkshot"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/dunkshot.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/dunkshot.jpeg 506w, https://game-ac.com/wp-content/uploads/dunkshot-300x200.jpeg 300w" sizes="(max-width: 506px) 100vw, 506px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/flash/minimissions/" title="MINIMISSIONS"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/minimissions-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/minimissions-150x100.jpeg 150w, https://game-ac.com/wp-content/uploads/minimissions-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/minimissions.jpeg 506w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/major/rejection-thesis/" title="Rejection Thesis"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/rejection-thesis-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/rejection-thesis-150x100.jpeg 150w, https://game-ac.com/wp-content/uploads/rejection-thesis-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/rejection-thesis.jpeg 506w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/sports/street-freekick-3d/" title="Street Freekick 3D"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/street-freekick-3d-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/street-freekick-3d-150x100.jpeg 150w, https://game-ac.com/wp-content/uploads/street-freekick-3d-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/street-freekick-3d.jpeg 506w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/hakai/mass-madness/" title="MASS MADNESS"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/mass-madness.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/mass-madness.jpeg 506w, https://game-ac.com/wp-content/uploads/mass-madness-300x200.jpeg 300w" sizes="(max-width: 506px) 100vw, 506px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/shooting/sky-troops/" title="Sky Troops"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/sky-troops-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/sky-troops-150x100.jpeg 150w, https://game-ac.com/wp-content/uploads/sky-troops-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/sky-troops.jpeg 506w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/other/elementalist/" title="Elementalist"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/elementalist.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/elementalist.jpeg 506w, https://game-ac.com/wp-content/uploads/elementalist-300x200.jpeg 300w" sizes="(max-width: 506px) 100vw, 506px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/racing/interstate-drifter-2000/" title="Interstate Drifter 2000"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/interstate-drifter-2000-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/interstate-drifter-2000-150x100.jpeg 150w, https://game-ac.com/wp-content/uploads/interstate-drifter-2000-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/interstate-drifter-2000.jpeg 506w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/puzzle/zombie-gunpocalypse/" title="Zombie Gunpocalypse"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/zombie-gunpocalypse-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/zombie-gunpocalypse-150x100.jpeg 150w, https://game-ac.com/wp-content/uploads/zombie-gunpocalypse-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/zombie-gunpocalypse.jpeg 506w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/sports/penalty-superstar/" title="Penalty Superstar"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/penalty-superstar-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/penalty-superstar-150x100.jpeg 150w, https://game-ac.com/wp-content/uploads/penalty-superstar-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/penalty-superstar.jpeg 506w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/racing/you-drive-i-shoot/" title="You Drive I Shoot"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/you-drive-i-shoot-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/you-drive-i-shoot-150x100.jpeg 150w, https://game-ac.com/wp-content/uploads/you-drive-i-shoot-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/you-drive-i-shoot.jpeg 506w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/puzzle/legendary-warrior-goblin-rush/" title="Legendary Warrior: Goblin Rush"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/legendary-warrior-goblin-rush-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/yuudou/draw-play-xmas/" title="Draw Play Xmas"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/draw-play-xmas-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/draw-play-xmas-150x100.jpeg 150w, https://game-ac.com/wp-content/uploads/draw-play-xmas-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/draw-play-xmas.jpeg 506w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/music/point-line/" title="Point Line"><img width="150" height="100" src="https://game-ac.com/wp-content/uploads/point-line-150x100.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/point-line-150x100.jpeg 150w, https://game-ac.com/wp-content/uploads/point-line-300x200.jpeg 300w, https://game-ac.com/wp-content/uploads/point-line.jpeg 506w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+ </div>
+  <div class="waku-side2">
+<a href="https://game-ac.com/free/other/galactic-judge/" title="Galactic Judge"><img width="506" height="337" src="https://game-ac.com/wp-content/uploads/galactic-judge.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://game-ac.com/wp-content/uploads/galactic-judge.jpeg 506w, https://game-ac.com/wp-content/uploads/galactic-judge-300x200.jpeg 300w" sizes="(max-width: 506px) 100vw, 506px" /></a>
+ </div>
+<br clear="all" />
+</div></div>
+		</section></div><div id="custom_html-11" class="widget_text keni-section_wrap widget widget_custom_html"><section class="widget_text keni-section"><div class="textwidget custom-html-widget"><!--▽広告-->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 庵 リンク -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4684554833388825"
+     data-ad-slot="5487015533"
+     data-ad-format="link"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!--△広告--></div></section></div><div id="custom_html-6" class="widget_text keni-section_wrap widget widget_custom_html"><section class="widget_text keni-section"><h3 class="sub-section_title">RR</h3><div class="textwidget custom-html-widget"><div align="center"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 庵右下 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-4684554833388825"
+     data-ad-slot="9005236560"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></section></div></aside><!-- #secondary -->
+
+	<!--▲▲ メインコンテンツ ▲▲-->
+
+
+	</div><!--keni-main_outer-->
+</div><!--keni-main_wrap-->
+
+<!--▼▼ パン屑リスト ▼▼-->
+<div class="keni-breadcrumb-list_wrap">
+	<div class="keni-breadcrumb-list_outer">
+		<nav class="keni-breadcrumb-list">
+			<ol class="keni-breadcrumb-list_inner" itemscope itemtype="http://schema.org/BreadcrumbList">
+				<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+					<a itemprop="item" href="https://game-ac.com"><span itemprop="name">アクションゲームの庵</span> TOP</a>
+					<meta itemprop="position" content="1" />
+				</li>
+				<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+					<a itemprop="item" href="https://game-ac.com/free/"><span itemprop="name">無料ゲーム</span></a>
+					<meta itemprop="position" content="2" />
+				</li>
+				<li>マリオゲーム</li>
+			</ol>
+		</nav>
+	</div><!--keni-breadcrumb-list_outer-->
+</div><!--keni-breadcrumb-list_wrap-->
+<!--▲▲ パン屑リスト ▲▲-->
+
+
+<!--▼▼ footer ▼▼-->
+<div class="keni-footer_wrap">
+	<div class="keni-footer_outer">
+		<footer class="keni-footer">
+
+			<div class="keni-footer_inner">
+				<div class="keni-footer-cont_wrap">
+										<div class="keni-footer-cont">
+						<div id="nav_menu-15" class="keni-section_wrap widget widget_nav_menu"><section class="keni-section"><h3 class="sub-section_title">アクションゲーム一覧</h3><div class="menu-%e3%82%ab%e3%83%86%e3%82%b4%e3%83%aa%e4%b8%80%e8%a6%a7-container"><ul id="menu-%e3%82%ab%e3%83%86%e3%82%b4%e3%83%aa%e4%b8%80%e8%a6%a7" class="menu"><li id="menu-item-16001" class="menu-item menu-item-type-taxonomy menu-item-object-category current-category-ancestor menu-item-16001"><a href="https://game-ac.com/free/">無料ゲームの一覧</a></li>
+<li id="menu-item-16002" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16002"><a href="https://game-ac.com/pvp/">オンライン対戦</a></li>
+<li id="menu-item-16003" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16003"><a href="https://game-ac.com/onlinegame/">オンラインアクション</a></li>
+<li id="menu-item-16004" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16004"><a href="https://game-ac.com/tag/omoshiroi/">面白いゲーム</a></li>
+<li id="menu-item-17309" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17309"><a href="https://game-ac.com/tag/smartphone/">スマホゲーム</a></li>
+</ul></div></section></div>					</div>
+															<div class="keni-footer-cont">
+						<div id="nav_menu-14" class="keni-section_wrap widget widget_nav_menu"><section class="keni-section"><h3 class="sub-section_title">人気ゲーム</h3><div class="menu-%e4%ba%ba%e6%b0%97%e3%82%ab%e3%83%86%e3%82%b4%e3%83%aa-container"><ul id="menu-%e4%ba%ba%e6%b0%97%e3%82%ab%e3%83%86%e3%82%b4%e3%83%aa" class="menu"><li id="menu-item-17683" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17683"><a href="https://game-ac.com/free/racing/">レースゲーム</a></li>
+<li id="menu-item-17684" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17684"><a href="https://game-ac.com/tag/bike/">バイクゲーム</a></li>
+<li id="menu-item-17265" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17265"><a href="https://game-ac.com/tag/slither/">ヘビゲーム</a></li>
+<li id="menu-item-17436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17436"><a href="https://game-ac.com/tag/zombie/">ゾンビゲーム</a></li>
+<li id="menu-item-16009" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16009"><a href="https://game-ac.com/free/major/">アドベンチャー</a></li>
+<li id="menu-item-16010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16010"><a href="https://game-ac.com/free/hakai/">ストレス発散・破壊</a></li>
+<li id="menu-item-16109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16109"><a href="https://game-ac.com/free/music/">音ゲー</a></li>
+<li id="menu-item-17439" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17439"><a href="https://game-ac.com/tag/muzui/">激ムズ</a></li>
+</ul></div></section></div>					</div>
+															<div class="keni-footer-cont">
+						<div id="nav_menu-16" class="keni-section_wrap widget widget_nav_menu"><section class="keni-section"><h3 class="sub-section_title">ジャンル</h3><div class="menu-%e3%82%ab%e3%83%86%e3%82%b4%e3%83%aa5-container"><ul id="menu-%e3%82%ab%e3%83%86%e3%82%b4%e3%83%aa5" class="menu"><li id="menu-item-16099" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16099"><a href="https://game-ac.com/free/jump/">ラン&#038;ジャンプ</a></li>
+<li id="menu-item-16100" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16100"><a href="https://game-ac.com/free/bouei/">防衛ゲーム</a></li>
+<li id="menu-item-16103" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16103"><a href="https://game-ac.com/free/kakutou/">格闘ゲーム</a></li>
+<li id="menu-item-16102" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16102"><a href="https://game-ac.com/free/other/">育成ゲーム</a></li>
+<li id="menu-item-17437" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17437"><a href="https://game-ac.com/tag/coop/">オフライン協力・対戦</a></li>
+<li id="menu-item-16098" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16098"><a href="https://game-ac.com/free/surgery/">外科手術ゲーム</a></li>
+<li id="menu-item-17266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17266"><a href="https://game-ac.com/tag/mouse/">マウス操作</a></li>
+<li id="menu-item-17438" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17438"><a href="https://game-ac.com/tag/3d/">3Dアクション</a></li>
+</ul></div></section></div>					</div>
+					                    <div class="keni-footer-cont">
+            <div id="nav_menu-8" class="keni-section_wrap widget widget_nav_menu"><section class="keni-section"><h3 class="sub-section_title">スポーツ系</h3><div class="menu-%e3%82%ab%e3%83%86%e3%82%b4%e3%83%aa4-container"><ul id="menu-%e3%82%ab%e3%83%86%e3%82%b4%e3%83%aa4" class="menu"><li id="menu-item-15971" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15971"><a href="https://game-ac.com/free/sports/">スポーツゲーム</a></li>
+<li id="menu-item-15972" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15972"><a href="https://game-ac.com/tag/soccer/">サッカーゲーム</a></li>
+<li id="menu-item-15973" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15973"><a href="https://game-ac.com/tag/golf/">ゴルフゲーム</a></li>
+<li id="menu-item-15974" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15974"><a href="https://game-ac.com/tag/tennis/">テニスゲーム</a></li>
+<li id="menu-item-15975" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15975"><a href="https://game-ac.com/tag/baseball/">野球ゲーム</a></li>
+<li id="menu-item-15976" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15976"><a href="https://game-ac.com/tag/basketball/">バスケゲーム</a></li>
+</ul></div></section></div>          </div>
+                              <div class="keni-footer-cont">
+            <div id="nav_menu-19" class="keni-section_wrap widget widget_nav_menu"><section class="keni-section"><h3 class="sub-section_title">シューティング</h3><div class="menu-%e3%82%b7%e3%83%a5%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0-container"><ul id="menu-%e3%82%b7%e3%83%a5%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0" class="menu"><li id="menu-item-17681" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17681"><a href="https://game-ac.com/free/shooting/">シューティング</a></li>
+<li id="menu-item-17682" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17682"><a href="https://game-ac.com/free/fps/">FPS</a></li>
+<li id="menu-item-17680" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17680"><a href="https://game-ac.com/free/gunshooting/">ガンシューティング</a></li>
+</ul></div></section></div><div id="nav_menu-18" class="keni-section_wrap widget widget_nav_menu"><section class="keni-section"><h3 class="sub-section_title">プラットフォーム</h3><div class="menu-%e5%8b%95%e4%bd%9c%e8%a6%8f%e6%a0%bc-container"><ul id="menu-%e5%8b%95%e4%bd%9c%e8%a6%8f%e6%a0%bc" class="menu"><li id="menu-item-15980" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15980"><a href="https://game-ac.com/tag/html5/">HTML5ゲーム</a></li>
+<li id="menu-item-15982" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15982"><a href="https://game-ac.com/tag/pc-flash/">フラッシュゲーム</a></li>
+<li id="menu-item-15981" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15981"><a href="https://game-ac.com/tag/webgl/">WebGLゲーム</a></li>
+</ul></div></section></div>          </div>
+          				</div><!--keni-section_wrap-->
+			</div><!--keni-footer_inner-->
+		</footer><!--keni-footer-->
+        <div class="footer-menu">
+			<div class="menu-%e3%82%b5%e3%82%a4%e3%83%88%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6-%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b-container"><ul id="menu-%e3%82%b5%e3%82%a4%e3%83%88%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6-%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b" class="menu"><li id="menu-item-16859" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16859"><a href="https://game-ac.com/siteinfo/">サイトについて お問い合わせ</a></li>
+</ul></div>        </div>
+		<div class="keni-copyright_wrap">
+			<div class="keni-copyright">
+
+				<small>&copy; 2013 アクションゲームの庵</small>
+
+			</div><!--keni-copyright_wrap-->
+		</div><!--keni-copyright_wrap-->
+	</div><!--keni-footer_outer-->
+</div><!--keni-footer_wrap-->
+<!--▲▲ footer ▲▲-->
+
+
+</div><!--keni-container-->
+
+<!--▼ページトップ-->
+<p class="page-top"><a href="#top"></a></p>
+<!--▲ページトップ-->
+
+<script type='text/javascript' src='https://game-ac.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://game-ac.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/game-ac.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://game-ac.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ratingsL10n = {"plugin_url":"https:\/\/game-ac.com\/wp-content\/plugins\/wp-postratings","ajax_url":"https:\/\/game-ac.com\/wp-admin\/admin-ajax.php","text_wait":"1\u9805\u76ee\u306b\u3064\u304d\uff11\u5ea6\u3060\u3051\u6295\u7968\u3067\u304d\u307e\u3059\u3002","image":"stars","image_ext":"gif","max":"5","show_loading":"0","show_fading":"0","custom":"0"};
+var ratings_mouseover_image=new Image();ratings_mouseover_image.src="https://game-ac.com/wp-content/plugins/wp-postratings/images/stars/rating_over.gif";;
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://game-ac.com/wp-content/plugins/wp-postratings/js/postratings-js.js?ver=1.89'></script>
+<script type='application/json' id="wpp-json">
+{"sampling_active":1,"sampling_rate":100,"ajax_url":"https:\/\/game-ac.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","ID":0,"token":"61f873dd0e","lang":0,"debug":0}
+</script>
+<script type='text/javascript' src='https://game-ac.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=5.2.4'></script>
+<script type='text/javascript' src='https://game-ac.com/wp-content/themes/oya/js/navigation.js?ver=20151215'></script>
+<script type='text/javascript' src='https://game-ac.com/wp-content/themes/oya/js/skip-link-focus-fix.js?ver=20151215'></script>
+<script type='text/javascript' src='https://game-ac.com/wp-content/themes/oya/js/utility.js?ver=5.4.4'></script>
+<script type='text/javascript' src='https://game-ac.com/wp-content/themes/oya/js/insertstyle.js?ver=5.4.4'></script>
+<script type='text/javascript' src='https://game-ac.com/wp-content/themes/oya/js/fontawesome-all.js?ver=5.4.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var q2w3_sidebar_options = [{"sidebar":"sidebar-1","margin_top":30,"margin_bottom":600,"stop_id":"","screen_max_width":760,"screen_max_height":0,"width_inherit":false,"refresh_interval":250,"window_load_hook":false,"disable_mo_api":false,"widgets":["custom_html-6"]}];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://game-ac.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.9'></script>
+<script type='text/javascript' src='https://game-ac.com/wp-includes/js/wp-embed.min.js?ver=5.4.4'></script>
+<style type="text/css">.color01{color: #002359;}.color02{color: #00664a;}.color03{color: #b3e4e6;}.color04{color: ;}.color05{color: #e8f7f7;}.color06{color: #d1eff0;}.color07{color: #557700;}q{background: #d1eff0;}table:not(.review-table) thead th{border-color: #00664a;background-color: #00664a;}a:hover,a:active,a:focus{color: #002359;}.keni-header_wrap{background-image: linear-gradient(-45deg,#fff 25%,#00664a 25%, #00664a 50%,#fff 50%, #fff 75%,#00664a 75%, #00664a);}.keni-header_cont .header-mail .btn_header{color: #002359;}.site-title > a span{color: #002359;}.keni-breadcrumb-list li a:hover,.keni-breadcrumb-list li a:active,.keni-breadcrumb-list li a:focus{color: #002359;}.keni-section h1:not(.title_no-style){background-image: linear-gradient(-45deg,#fff 25%,#00664a 25%, #00664a 50%,#fff 50%, #fff 75%,#00664a 75%, #00664a);}.archive_title{background-image: linear-gradient(-45deg,#fff 25%,#00664a 25%, #00664a 50%,#fff 50%, #fff 75%,#00664a 75%, #00664a);} h2:not(.title_no-style){background: #00664a;}.profile-box-title {background: #00664a;}.keni-related-title {background: #00664a;}.comments-area h2 {background: #00664a;}h3:not(.title_no-style){border-top-color: #00664a;border-bottom-color: #00664a;color: #002359;}h4:not(.title_no-style){border-bottom-color: #00664a;color: #002359;}h5:not(.title_no-style){color: #002359;}.keni-section h1 a:hover,.keni-section h1 a:active,.keni-section h1 a:focus,.keni-section h3 a:hover,.keni-section h3 a:active,.keni-section h3 a:focus,.keni-section h4 a:hover,.keni-section h4 a:active,.keni-section h4 a:focus,.keni-section h5 a:hover,.keni-section h5 a:active,.keni-section h5 a:focus,.keni-section h6 a:hover,.keni-section h6 a:active,.keni-section h6 a:focus{color: #002359;}.keni-section .sub-section_title {background: #557700;}.btn_style01{border-color: #002359;color: #002359;}.btn_style02{border-color: #002359;color: #002359;}.btn_style03{background: #00664a;}.entry-list .entry_title a:hover,.entry-list .entry_title a:active,.entry-list .entry_title a:focus{color: #002359;}.ently_read-more .btn{border-color: #002359;color: #002359;}.profile-box{background-color: #e8f7f7;}.advance-billing-box_next-title{color: #b3e4e6;}.step-chart li:nth-child(2){background-color: ;}.step-chart_style01 li:nth-child(2)::after,.step-chart_style02 li:nth-child(2)::after{border-top-color: ;}.step-chart li:nth-child(3){background-color: #b3e4e6;}.step-chart_style01 li:nth-child(3)::after,.step-chart_style02 li:nth-child(3)::after{border-top-color: #b3e4e6;}.step-chart li:nth-child(4){background-color: #00664a;}.step-chart_style01 li:nth-child(4)::after,.step-chart_style02 li:nth-child(4)::after{border-top-color: #00664a;}.toc-area_inner .toc-area_list > li::before{background: #00664a;}.toc_title{color: #002359;}.list_style02 li::before{background: #00664a;}.dl_style02 dt{background: #00664a;}.dl_style02 dd{background: ;}.accordion-list dt{background: #00664a;}.ranking-list .review_desc_title{color: #002359;}.review_desc{background-color: #e8f7f7;}.item-box .item-box_title{color: #002359;}.item-box02{background-image: linear-gradient(-45deg,#fff 25%,#00664a 25%, #00664a 50%,#fff 50%, #fff 75%,#00664a 75%, #00664a);}.item-box02 .item-box_inner{background-color: #e8f7f7;}.item-box02 .item-box_title{background-color: #00664a;}.item-box03 .item-box_title{background-color: #00664a;}.box_style01{background-image: linear-gradient(-45deg,#fff 25%,#00664a 25%, #00664a 50%,#fff 50%, #fff 75%,#00664a 75%, #00664a);}.box_style01 .box_inner{background-color: #e8f7f7;}.box_style03{background: #e8f7f7;}.box_style06{background-color: #e8f7f7;}.cast-box{background-image: linear-gradient(-45deg,#fff 25%,#00664a 25%, #00664a 50%,#fff 50%, #fff 75%,#00664a 75%, #00664a);}.cast-box .cast_name,.cast-box_sub .cast_name{color: #002359;}.widget .cast-box_sub .cast-box_sub_title{background-image: linear-gradient(-45deg,#00664a 25%, #00664a 50%,#fff 50%, #fff 75%,#00664a 75%, #00664a);}.voice_styl02{background-color: #e8f7f7;}.voice_styl03{background-image: linear-gradient(-45deg,#fff 25%,#e8f7f7 25%, #e8f7f7 50%,#fff 50%, #fff 75%,#e8f7f7 75%, #e8f7f7);}.voice-box .voice_title{color: #002359;}.chat_style02 .bubble{background-color: #00664a;}.chat_style02 .bubble .bubble_in{border-color: #00664a;}.related-entry-list .related-entry_title a:hover,.related-entry-list .related-entry_title a:active,.related-entry-list .related-entry_title a:focus{color: #002359;}.interval01 span{background-color: #00664a;}.interval02 span{background-color: #00664a;}.page-nav .current,.page-nav li a:hover,.page-nav li a:active,.page-nav li a:focus{background: #00664a;}.page-nav-bf .page-nav_next:hover,.page-nav-bf .page-nav_next:active,.page-nav-bf .page-nav_next:focus,.page-nav-bf .page-nav_prev:hover,.page-nav-bf .page-nav_prev:active,.page-nav-bf .page-nav_prev:focus{color: #002359;}.nav-links .nav-next a:hover, .nav-links .nav-next a:active, .nav-links .nav-next a:focus, .nav-links .nav-previous a:hover, .nav-links .nav-previous a:active, .nav-links .nav-previous a:focus {color: #002359; text-decoration: 'underline'; }.commentary-box .commentary-box_title{color: #00664a;}.calendar tfoot td a:hover,.calendar tfoot td a:active,.calendar tfoot td a:focus{color: #002359;}.form-mailmaga .form-mailmaga_title{color: #00664a;}.form-login .form-login_title{color: #00664a;}.form-login-item .form-login_title{color: #00664a;}.contact-box{background-image: linear-gradient(-45deg,#fff 25%, #00664a 25%, #00664a 50%,#fff 50%, #fff 75%,#00664a 75%, #00664a);}.contact-box_inner{background-color: #e8f7f7;}.contact-box .contact-box-title{background-color: #00664a;}.contact-box_tel{color: #002359;}.widget_recent_entries .keni-section ul li a:hover,.widget_recent_entries .keni-section ul li a:active,.widget_recent_entries .keni-section ul li a:focus,.widget_archive .keni-section > ul li a:hover,.widget_archive .keni-section > ul li a:active,.widget_archive .keni-section > ul li a:focus,.widget_categories .keni-section > ul li a:hover,.widget_categories .keni-section > ul li a:active,.widget_categories .keni-section > ul li a:focus{color: #002359;}.tagcloud a::before{color: #002359;}.widget_recent_entries_img .list_widget_recent_entries_img .widget_recent_entries_img_entry_title a:hover,.widget_recent_entries_img .list_widget_recent_entries_img .widget_recent_entries_img_entry_title a:active,.widget_recent_entries_img .list_widget_recent_entries_img .widget_recent_entries_img_entry_title a:focus{color: #002359;}.keni-link-card_title a:hover,.keni-link-card_title a:active,.keni-link-card_title a:focus{color: #002359;}@media (min-width : 768px){.keni-gnav_inner li a:hover,.keni-gnav_inner li a:active,.keni-gnav_inner li a:focus{border-bottom-color: #00664a;}.step-chart_style02 li:nth-child(2)::after{border-left-color: ;}.step-chart_style02 li:nth-child(3)::after{border-left-color: #b3e4e6;}.step-chart_style02 li:nth-child(4)::after{border-left-color: #00664a;}.col1 .contact-box_tel{color: #002359;}.step-chart_style02 li:nth-child(1)::after,.step-chart_style02 li:nth-child(2)::after,.step-chart_style02 li:nth-child(3)::after,.step-chart_style02 li:nth-child(4)::after{border-top-color: transparent;}}@media (min-width : 920px){.contact-box_tel{color: #002359;}}</style>
+</body>
+</html>
